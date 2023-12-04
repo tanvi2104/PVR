@@ -1,0 +1,23 @@
+.join{
+	background: #297f54;
+	width: 100%;
+	height: 50vh;
+	z-index: -999;
+}
+
+.join-us{
+	width: 1250px;
+    height: 220px;
+    box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.5);
+    border-radius: 7px;
+    margin-left: 110px;
+    margin-top: -290px;
+    margin-bottom: 100px;
+    background: white;
+    z-index: 9999999;
+}
+
+.title{
+	text-align: center;
+	padding-top: 40px;
+}
