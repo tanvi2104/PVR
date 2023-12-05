@@ -4,27 +4,11 @@ import "./Courses.css";
 function Courses (){
     return (
     <>
-    <div className="grad">
-    <div className="card">
-       <div className="t-card">
-            <h4>Free Courses</h4>
-            <ul>
-                <li>Lecture</li>
-                <li>Lecture</li>
-                <li>Lecture</li>
-                <li>Lecture</li>
-            </ul>
-        </div>
-        <div className="t-card">
-            <h4>Paid Courses</h4>
-            <ul>
-                <li>Lecture</li>
-                <li>Lecture</li>
-                <li>Lecture</li>
-                <li>Lecture</li>
-            </ul>
-        </div>
+    <div className="grad1">
+        <h1>Free Courses</h1>
     </div>
+    <div className="grad2">
+        <h1>Paid Courses</h1>
     </div>
        <Footer />
     </>
