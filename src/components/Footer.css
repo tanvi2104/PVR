@@ -1,7 +1,7 @@
 .footer{
 	padding: 1rem 10rem;
 	background: white;
-	color: white;
+	color: #297f54;
 	font-family: 'Times New Roman', Times, serif;
 	position: relative;
 	position: sticky;
@@ -13,14 +13,14 @@
 	text-align: start;
 	justify-content: space-between;
 	flex-wrap: wrap;
-	color: #378B29;
+	color: #297f54;
 }
 
 .top h1{
 	margin-bottom: -50px;
 }
 .top i{
-	color: #378B29;
+	color: #297f54;
 	font-size: 2rem;
 	margin-left: 1rem;
 }
@@ -38,7 +38,7 @@
 	padding-bottom: 20px;
 	padding-top: 30px;
 	font-size:1.5rem ;
-	color: #378B29;
+	color: #297f54;
 	padding-left: 50px;
 }
 
@@ -62,7 +62,7 @@
 	justify-content: space-between;
 	flex-wrap: wrap;
 	list-style: none;
-	color: #378B29;
+	color: #297f54;
 }
 
 .form{
@@ -101,7 +101,7 @@
 
 .subb:hover{
 	color: white;
-	background: #378B29;
+	background: #297f54;
 }
 
 .company{

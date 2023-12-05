@@ -3,12 +3,13 @@ import Footer from "../components/Footer.js";
 //import ParticlesBg from 'particles-bg';
 import React, { useEffect, useState } from 'react';
 import './Home.css';
-import InformationData from "../components/InformationData.js";
-import Quote from "../components/Quote.js";
-import Free from "../components/Free.js";
+import Quote from "../components/Quotes/Quote.js";
+import Quote4 from "../components/Quotes/Quote4.js";
+import Free from "../components/Free.js"
 import Course from "../components/Course.js";
 import Provide from "../components/Provide.js";
 import Join from "../components/Join.js";
+import Quote5 from "../components/Quotes/Quote5.js";
 import Testimonial from "../components/Testimonial.js";
 //import Typewriter from 'typewriter-effect/dist/core';
 
@@ -51,11 +52,13 @@ const [imageFadeIn, setImageFadeIn] = useState(false);
             </div>
             </div>
             <Quote />
-            <Free />
-            <Course />
-            <Provide />
-            <Join />
-            <Testimonial />
+           <Free />
+           <Course />
+           <Provide />
+           <Quote4 />
+           <Join />
+           <Quote5 />
+           <Testimonial />
       <Footer />
       </>
     );

@@ -1,23 +1,54 @@
 .join{
 	background: #297f54;
 	width: 100%;
-	height: 50vh;
+	height: 90vh;
 	z-index: -999;
+	margin-top: -60px;
 }
 
 .join-us{
 	width: 1250px;
-    height: 220px;
+    height: 320px;
     box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.5);
     border-radius: 7px;
     margin-left: 110px;
-    margin-top: -290px;
+    margin-top: -480px;
     margin-bottom: 100px;
     background: white;
-    z-index: 9999999;
+    z-index: 9999;
 }
 
 .title{
 	text-align: center;
-	padding-top: 40px;
+	padding-top: 20px;
+	font-weight: 500;
+	font-size: 2.5rem;
+}
+
+.who{
+	display: flex;
+	flex-direction: row;
+	font-size: 1.5rem;
+	margin-top: -20px;
+}
+
+.u1 i{
+	color: #297f54;
+	margin-right: 25px;
+}
+.u1{
+	list-style: none;
+	padding-top: 20px;
+	margin-left: 160px;
+}
+
+.u2 i{
+	color: #297f54;
+	margin-right: 25px;
+}
+
+.u2{
+	list-style: none;
+	padding-top: 20px;
+	margin-left: 330px;
 }

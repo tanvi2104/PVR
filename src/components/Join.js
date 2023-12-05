@@ -8,25 +8,27 @@ function Join(){
       </div>
       <div className="join-us">
             <h2 className="title">Who can join us?</h2>
-
-        </div>
+            <div className="who">
+            <ul className="u1">
+            <li><i class="fa-solid fa-user-tie"/>Service Professional</li>
+            <li><i class="fa-solid fa-person-dress" />Housewives</li>
+            <li><i class="fa-solid fa-gavel"/>Lawyers</li>
+            <li><i class="fa-solid fa-receipt" />CA/CSs</li>
+            <li><i class="fa-solid fa-handshake" />Entrepreneurs</li>
+            <li><i class="fa-solid fa-business-time" />Business Owners</li>
+            </ul>
+            <ul className="u2">
+            <li><i class="fa-solid fa-user-group" />Freelancers</li>
+            <li><i class="fa-solid fa-school" />Teachers/Professors</li>
+            <li><i class="fa-solid fa-dollar-sign" />Investors</li>
+            <li><i class="fa-solid fa-money-bill-trend-up" />Investors</li>
+            <li><i class="fa-solid fa-book-atlas"/>Experienced Traders</li>
+            <li><i class="fa-solid fa-graduation-cap" />Students</li>
+            </ul>
+            </div>
+      </div>
     </>
     );
 }
 
 export default Join;
-/*
-<i class="fa-solid fa-user-tie" style="color: #297f54;"/></i>
-<i class="fa-solid fa-person-dress" style="color: #297f54;"></i>
-<i class="fa-solid fa-gavel" style="color: #297f54;"></i>
-<i class="fa-solid fa-receipt" style="color: #297f54;"></i>
-<i class="fa-solid fa-handshake"></i>
-<i class="fa-solid fa-business-time"></i>
-<i class="fa-solid fa-user-group"></i>
-<i class="fa-solid fa-school"></i>
-<i class="fa-solid fa-dollar-sign"></i>
-<i class="fa-solid fa-money-bill-trend-up"></i>
-<i class="fa-solid fa-user-doctor"></i>
-<i class="fa-solid fa-graduation-cap"></i>
-
-*/

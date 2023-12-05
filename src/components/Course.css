@@ -1,22 +1,33 @@
-.course-title{
+.grad{
+    padding-top: 100px;
+    width: 100%;
+    height: 120vh ;
+    position: relative;
+    text-align: left;
+    background: #297f54;
+    z-index: -999999;
+}
+
+.explore-course h2{
+    margin-top: 20px;
     text-align: center;
-    margin-top: -45px;
-    margin-bottom: -80px;
     color: white;
     font-size: 3rem;
-    font-weight: 700;
+    font-weight: 600;
 }
+
 
 .align-course{
     display: flex;
     justify-content: space-between;
     margin-left: -40px;
-    padding: 80px;
+    padding: 90px;
+    margin-top: -120px;
 }
 
 .c1{
-    width: 250px;
-    height: 250px;
+    width: 280px;
+    height: 280px;
     text-align: center;
     box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.5);
     border-radius: 7px;
@@ -24,13 +35,12 @@
     margin-left: 20px;
     margin-top: 130px;
     background: white;
-    z-index: 9999999;
 }
 
 
 .c2{
-    width: 250px;
-    height: 250px;
+    width: 280px;
+    height: 280px;
     text-align: center;
     box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.5);
     border-radius: 7px;
@@ -38,12 +48,12 @@
     margin-left: 20px;
     margin-top: 130px;
     background: white;
-    z-index: 9999999;
+
 }
 
 .c3{
-    width: 250px;
-    height: 250px;
+     width: 280px;
+    height: 280px;
     text-align: center;
     box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.5);
     border-radius: 7px;
@@ -51,12 +61,11 @@
     margin-left: 20px;
     margin-top: 130px;
     background: white;
-    z-index: 9999999;
 }
 
 .c4{
-   width: 250px;
-    height: 250px;
+    width: 280px;
+    height: 280px;
     text-align: center;
     box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.5);
     border-radius: 7px;
@@ -64,7 +73,6 @@
     margin-left: 20px;
     margin-top: 130px;
     background: white;
-    z-index: 9999999;
 }
 
 .c-t{
