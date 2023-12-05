@@ -88,7 +88,8 @@ function Contact(){
                 
 
                 <textarea rows="3" placeholder="Message" className="form-control"></textarea>
-                <input type="submit" className="send-btn" value="Submit"> </input>
+                
+                <a href="Courses.js"><button className="send-btn"> Contact us</button> </a>
 
             </form>
 
