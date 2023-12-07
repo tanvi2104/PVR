@@ -3,6 +3,7 @@ import "./About.css";
 import Footer from "../components/Footer.js";
 
 
+
 function About(){
     return (
         
@@ -38,7 +39,7 @@ function About(){
                   financial sevices. Let's navigate the markets together, turning knowledge into opportunities and 
                   empowering your financial future.</p>
 
-                    <a href="ContactUs.html"><button className="btn"> Contact us</button> </a>
+                    <a href="Courses.js"><button className="btn"> Contact us</button> </a>
                 </div>
 
                 <div className="hero-image">
@@ -101,7 +102,7 @@ function About(){
 
    <div className="mvv-block">
     <div class="image">
-     <img src="images/g.jpg" alt=""> </img>
+     <img src="images/g.jpeg" alt=""> </img>
     </div>
 
     <div className="content"> 
@@ -232,9 +233,6 @@ function About(){
     </div>
 
 </section>
-       
-
-       
        
     </>
     );

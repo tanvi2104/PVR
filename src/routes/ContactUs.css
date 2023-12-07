@@ -21,13 +21,14 @@ body{
     justify-content: center;
     align-items: center;
   
-
 }
+
 .contact-bg h3{
     margin-top: 45px;
     font-size: 1.8rem;
     font-weight: 400;
 }
+
 .contact-bg h2{
     color: #fff;
     font-size: 3rem;
@@ -35,9 +36,11 @@ body{
     padding: 3px 3px;
     letter-spacing: 3.5px;
 }
+
 .line div{
     margin: 0 0.2rem;
 }
+
 .line div:nth-child(1),
 .line div:nth-child(3){
     height: 3px;
@@ -45,24 +48,29 @@ body{
     background:#fff;
     border-radius: 5px;
 }
+
 .line{
     display: flex;
     
 }
+
 .line div:nth-child(2){
     width: 10px;
     height: 10px;
     background: #fff;
     border-radius: 50%;
 }
+
 .text{
     font-size: 20px;
     font-weight: 400;
     opacity: 0.9;
 }
+
 .contact-bg .text{
     margin: 1.6rem 0;
 }
+
 .contact-body{
     max-width: 1320px;
     margin: 0 auto;
@@ -76,37 +84,45 @@ body{
     text-align: center;
     padding: 2rem 0;
 }
+
 .contact-info span{
     display: block;
 }
+
 .contact-info div{
     margin: 0.8rem 0;
     padding: 1rem;
 }
+
 .contact-info span .fas{
     font-size: 2rem;
     padding-bottom: 0.9rem;
     color: #297f54;
 }
+
 .contact-info div span:nth-child(2){
     font-weight: 100;
     font-size: 1.1rem;
 }
+
 .contact-info .text{
     padding-top: 0.4rem;
     color: black;
     font-weight: 600px;
     
 }
+
 .contact-form{
    
     padding: 2rem 1rem;
     border-top: 2px solid #c7c7c7;
    
 }
+
 .contact-form form{
     padding-bottom: 1rem;
 }
+
 .form-control{
     width: 100%;
     border: 1.5px solid #c7c7c7;
@@ -117,9 +133,11 @@ body{
     font-size: 20px;
     outline: 0;
 }
+
 .form-control:focus{
     box-shadow: 0 0 6px -3px rgba(48, 48, 48, 1);
 }
+
 .contact-form form div{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -146,14 +164,17 @@ body{
     cursor: pointer;
     transition: all 0.4s ease;
 }
+
 .send-btn:hover{
     opacity: 0.8;
     color: #fff;
     background-color: red;
 }
+
 .contact-form > div img{
     width: 70%;
 }
+
 .contact-form > div{
     margin: 0 auto;
     text-align: center;

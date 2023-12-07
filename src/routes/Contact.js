@@ -40,14 +40,14 @@ function Contact(){
             <div>
                 <span> <i className="fas fa-mobile-alt"></i></span>
                 <span> Phone No.</span>
-                <span className="text">9373080942</span>
-                <span className="text"></span>
+                <span className="text">9689857898</span>
+                <span className="text">7030538008 </span>
             </div>
 
             <div>
                 <span> <i className="fas fa-envelope-open "></i></span>
                 <span> Email</span>
-                <span className="text">mail@company.com</span>
+                <span className="text"> pvrfinser@gmail.com</span>
             </div>
 
             <div>
@@ -85,7 +85,7 @@ function Contact(){
                     <input type = "text" className= "form-control" placeholder="Phone"> </input>
                   </div>
 
-                
+                                                     
 
                 <textarea rows="3" placeholder="Message" className="form-control"></textarea>
                 
@@ -95,7 +95,7 @@ function Contact(){
 
             <div>
 
-                <img src="images/c1.jpg" alt=""> </img>
+                <img src="/images/c1.jpg" alt=""> </img>
 
             </div>
 
